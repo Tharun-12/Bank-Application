@@ -26,6 +26,6 @@ public class Main {
         System.out.println("Interest is : " +user.calculateInterest(10));
 
 
-
+        System.out.println("Tharun Project");
     }
 }
